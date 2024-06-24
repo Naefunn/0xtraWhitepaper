@@ -1,0 +1,18 @@
+{
+    "index": "Overview",
+    "--": {
+        "type": "separator",
+        "title": "Product"
+    },
+    "features": "Features",
+    "-": {
+        "type": "separator",
+        "title": "Benefits"
+    },
+    "---": {
+        "type": "separator",
+        "title": "Company"
+    },
+    "vision": "About us",
+    "roadmap": "Roadmap"
+}
